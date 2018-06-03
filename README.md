@@ -1,2 +1,5 @@
 # hello-world
-this a repository is a test repository made for training purposes 
+
+Hello World!
+
+an idat here! i thought i can code, but i already lost trying to figur out how github works. 
